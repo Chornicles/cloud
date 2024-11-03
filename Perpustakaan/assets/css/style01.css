@@ -1,0 +1,86 @@
+/* Style untuk topbar */
+.topbar {
+    background-color: #ff0000;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .text-topbar {
+    color: #fff;
+    font-size: 18px;
+  }
+  
+  /* Style untuk SVG */
+  svg {
+    width: 100%;
+  }
+  
+  /* Style untuk card login */
+  .card-login {
+    width: 300px;
+    margin: 0 auto;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top: -100px;
+    padding: 20px;
+  }
+  
+  .card-main {
+    text-align: center;
+  }
+  
+  .card-header {
+    font-size: 24px;
+    font-weight: 700;
+    margin-bottom: 20px;
+  }
+  
+  .card-body {
+    margin-bottom: 20px;
+  }
+  
+  .alert {
+    margin-bottom: 20px;
+  }
+  
+  /* Style untuk form login */
+  .form-login {
+    text-align: left;
+  }
+  
+  .form-label {
+    font-size: 18px;
+    font-weight: 500;
+  }
+  
+  .form-input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  .btn-login {
+    background-color: #ff0000;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .btn-login:hover {
+    background-color: #ff0000;
+  }
+  
+  /* Style untuk tautan */
+  a {
+    color: #ff0000;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }  
